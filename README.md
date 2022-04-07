@@ -80,3 +80,6 @@ sns.heatmap(df.corr(),annot=True)
 ![output](op7.png)
 ![output](op8.png)
 
+# Result:
+Thus the EDA on the given data set is sucessfully done.
+
